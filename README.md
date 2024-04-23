@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frank Chipana Briceño</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Scientist from Perú</h3>
 
 - 🔭 I’m currently Studing **Master in Data Science**
 
