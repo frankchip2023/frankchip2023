@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Frank Chipana Briceño</h1>
 <h3 align="center">A passionate Data Scientist from Perú</h3>
 
-- 🔭 I’m currently Studing **Master in Data Science**
+- 🔭 I studied a **Master in Data Science**
 
-- 🤝 I’m looking for help **in ML Proyects**
+- 🤝 I’m working **in ML Proyects**
 
 - 💬 Ask me about **Python, ML/DL Models**
 
-- 📫 How to reach me **frank.chipana.ds@gmail.com**
+- 📫 How to reach me **frank.chipana.outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
