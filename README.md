@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, ML/DL Models**
 
-- 📫 How to reach me **frank.chipana.outlook.com**
+- 📫 How to reach me **frank.chipana@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
